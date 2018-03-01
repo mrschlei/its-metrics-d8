@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the Bootstrap Metrics theme.
+
+bootstrap_metrics.settings:
+  type: theme_settings
+  label: 'Bootstrap Metrics settings'
